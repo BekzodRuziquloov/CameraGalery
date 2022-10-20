@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">CameraGallery</string>
+    <string name="rasm_olish">Rasm olish</string>
+
+    <style name="popupBGStyle" parent="Widget.MaterialComponents.PopupMenu">
+        <item name="android:popupBackground">@drawable/menu_background</item>
+    </style>
+
+    <style name="popupBGStyle1" parent="Widget.MaterialComponents.PopupMenu">
+        <item name="android:popupBackground">@drawable/menu_background</item>
+        <item name="popupMenuStyle">@drawable/menu_background</item>
+    </style>
+
+</resources>
